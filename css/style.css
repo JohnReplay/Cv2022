@@ -1,0 +1,84 @@
+body{
+    background-color: #EAFDFC;
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+h1{
+    color: #66BFBF;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    margin: 50px auto 0 auto;
+    line-height: 2;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.bottom-cloud{
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud{
+    position:absolute;
+    right:300px;
+    top:50px;
+    
+}
+
+.top-container{
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.middle-container { 
+
+}
+
+.bottom-container{
+
+}
+
+a{
+    color: #11999E;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.problemsolving-pic{
+    float: left;
+    width: 50%;
+    margin-right: 30px;
+    
+}
+
+.multitasking-pic{
+    float: right;
+    width: 50%;
+    margin-left: 30px;
+}
+
+.hardworker-pic{
+    float: left;
+    width: 50%;
+    margin-right: 30px;
+}
