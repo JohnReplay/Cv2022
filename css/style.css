@@ -64,3 +64,21 @@ a{
     line-height: 2;
 }
 
+.problemsolving-pic{
+    float: left;
+    width: 50%;
+    margin-right: 30px;
+    
+}
+
+.multitasking-pic{
+    float: right;
+    width: 50%;
+    margin-left: 30px;
+}
+
+.hardworker-pic{
+    float: left;
+    width: 50%;
+    margin-right: 30px;
+}
